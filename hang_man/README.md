@@ -1,11 +1,11 @@
 # HANGMAN
 
-     Created as part of The Odin Project curriculum.
+   Created as part of The Odin Project curriculum.
 
 ## Functionality
 
-     A basic hangman game where one player playes against the computer with added
-     fuctionality to save and load game.
+   A basic hangman game where one player playes against the computer with added
+   fuctionality to save and load game.
 
 ## Instructions followed
 
