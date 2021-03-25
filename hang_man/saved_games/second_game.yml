@@ -1,0 +1,44 @@
+---
+- !ruby/object:Hangman
+  chances: 6
+  i: 4
+  j: 8
+  misses:
+  - a
+  - r
+  - g
+  - q
+  correct:
+  - e
+  - e
+  - e
+  - m
+  - n
+  - n
+  - n
+  - t
+  secret_word:
+  - e
+  - n
+  - l
+  - i
+  - v
+  - e
+  - n
+  - m
+  - e
+  - n
+  - t
+  show:
+  - e
+  - n
+  - "-"
+  - "-"
+  - "-"
+  - e
+  - n
+  - m
+  - e
+  - n
+  - t
+  choice: save
