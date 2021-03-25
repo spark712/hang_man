@@ -1,11 +1,14 @@
-#HANGMAN
+# HANGMAN
+
      Created as part of The Odin Project curriculum.
 
-#Functionality
+## Functionality
+
      A basic hangman game where one player playes against the computer with added
      fuctionality to save and load game.
 
-#Instructions followed
+## Instructions followed
+
   1. Download the 5desk.txt dictionary file from http://scrapmaker.com/.
     
   2. When a new game is started, your script should load in the dictionary and 
@@ -28,7 +31,8 @@
   6. When the program first loads, add in an option that allows you to open one of your saved
      games, which should jump you exactly back to where you were when you saved. Play on!
 
-#Instructions to run it yourself
+## Instructions to run it yourself
+
   1. Download or clone the repository
 
   2. After successfully downloading, open the terminal in the root directory (./hang_man)
@@ -37,7 +41,8 @@
 
   4. Games will be saved in saved_games directory.
 
-#Importnat Notes
+## Importnat Notes
+
   1. The save/load functionality is not perfect as of right now.
      Saving a game-file with a name that already exists will overwrite the previous file.
   2. test.txt is a small sample of 5dest.txt for early testings.
